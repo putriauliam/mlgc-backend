@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://mlgc-deploy-2wncot6ffa-et.a.run.app",
+ "frontend-service-url": "https://submissionmlgc-putriaulia.et.r.appspot.com",
+ "project-id": "submissionmlgc-putriaulia",
+ "bucket-name": "bucket-putri-submissionmlgc"
+}
